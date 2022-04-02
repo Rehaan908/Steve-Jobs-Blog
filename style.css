@@ -1,0 +1,59 @@
+#s1{
+background:linear-gradient(#bec4d1,#323438);
+text-align:center;
+padding-bottom:50px;
+padding-top:150px;
+position: absolute;
+top:0;
+left:0;
+width:100%;
+}
+
+img{
+width:400px;
+height:400px;
+border-style: solid;
+border-color: black;
+padding:5px;
+}
+#s2,#s3,#s4,#s5{
+text-align:center;
+
+}
+#s2{
+padding-top:750px;
+
+}
+p{
+font-size:25px ;
+}
+
+ul{
+list-style: none;
+position:fixed;
+background-color:#000000;
+right:30px;
+cursor:pointer;
+padding-top: 10px;
+padding-bottom: 10px;
+z-index: 2;
+}
+
+li{
+float:left;
+font-size: 22px;
+font-family:fantasy ;
+padding-left:10px ;
+padding-right:30px;
+
+}
+
+a{
+    color: rgb(69, 69, 216);
+font-size: 18px;
+text-decoration: none;
+
+}
+a:hover{
+    color:fuchsia;
+}
